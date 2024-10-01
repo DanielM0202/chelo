@@ -1,4 +1,11 @@
+<<<<<<< HEAD
 hola
 hola mundo 
 hola familia
 hola pais
+=======
+hola 
+mundo
+como andan
+todo bien
+>>>>>>> efb026b7d6f1dc02c6dab0f48abf7061070ea2ba
